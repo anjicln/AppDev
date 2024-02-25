@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "17778889833",
+    "project_id": "sparkscholar-37eaa",
+    "storage_bucket": "sparkscholar-37eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17778889833:android:f09fbe5dd1d86519f4bef8",
+        "android_client_info": {
+          "package_name": "com.example.sparkscholar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw69UFVzANwu-5f_vXNmB-of23aMdvUCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
